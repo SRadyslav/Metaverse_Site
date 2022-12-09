@@ -20,8 +20,8 @@ const Insights = () => (
       <TypingText title="| Insight" textStyles="text-center" />
       <TitleText title="Insight about metaverse" textStyles="text-center" />
       <div className="mt-[50px] flex flex-col gap-[30px]">
-        {insights.map((insight,i)=>(
-          <InsightCard key={`insight-${i}`} {...insight} index={i+1} />
+        {insights.map((item,i)=>(
+          <InsightCard key={`insight-${i}`} {...item} index={i+1} />
         ))}
       </div>
     </motion.div>
