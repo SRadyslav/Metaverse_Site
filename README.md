@@ -1,3 +1,13 @@
+# Metaversus
+
+App created for understanding how to build modern website with Framer Motion & Tailwind CSS
+
+## GitHub-Pages
+
+Repository is deployed on [GitHubPages](https://sradyslav.github.io/Metaverse_Site/).
+
+## Create Next App
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
