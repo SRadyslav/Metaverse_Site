@@ -26,7 +26,7 @@ const World = () => (
         className="relative mt-[68px] flex w-full"
       >
         <img
-          src="/map.png"
+          src="map.png"
           alt="map"
           className="w-full h-full object-cover"
         />
